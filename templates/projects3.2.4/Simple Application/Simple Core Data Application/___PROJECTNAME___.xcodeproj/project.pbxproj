@@ -638,7 +638,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "___PROJECTNAME___";
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -658,7 +658,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "___PROJECTNAME___";
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
